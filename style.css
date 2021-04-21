@@ -1,0 +1,17 @@
+.hd1{
+    color: cadetblue;
+}
+#hd2{
+    color: rgb(20, 144, 144);
+}
+.body_h2{
+    color: darkmagenta;
+}
+.Box_Model{
+    border: 20px;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+  border-style: solid;
+  border-color: brown;
+}
